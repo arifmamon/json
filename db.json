@@ -1,0 +1,23 @@
+[
+    {
+        "title":"Manhwas",
+        "description":"Personal Manhwas",
+        "manhwa":[
+            {
+                "title":"Boarding Diary","releaseYear":"2020","coverpics":"https://manhwa18.com/app/manga/uploads/covers/3599b710c447d773e25b18ae3eeae395.jpg"
+            },
+            {
+                "title":"Sister-In-Law","releaseYear":"1985","coverpics":"https://manhwa18.com/app/manga/uploads/covers/aa9b7a11f534f6f6af537a5c3fd3c687.jpg"
+            },
+            {
+                "title":"Peeking","releaseYear":"1999","coverpics":"https://manhwa18.net/app/manga/uploads/covers/a3248b63a17b1eac9e1c3141c4fa82d0.jpg"
+            },
+            {
+                "title":"Secret Class","releaseYear":"2010","coverpics":"https://manhwa18.net/app/manga/uploads/covers/832dfdea6cb2b482c44665354ac8c653.jpg"
+            },
+            {
+                "title":"Niece","releaseYear":"2014","coverpics":"https://manhwa18.net/app/manga/uploads/covers/65557853b9d5e10c4365b1f468480408.jpg"
+            }
+        ]
+    }
+]
