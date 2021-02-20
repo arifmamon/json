@@ -1,5 +1,4 @@
-[
-    {
+{
         "title":"Manhwa",
         "description":"Personal ",
         "manhwa":[
@@ -19,5 +18,4 @@
                 "title":"Niece","releaseYear":"2014","coverpics":"https://manhwa18.net/app/manga/uploads/covers/65557853b9d5e10c4365b1f468480408.jpg"
             }
         ]
-    }
-]
+}
