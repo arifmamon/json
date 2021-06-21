@@ -1,6 +1,29 @@
 {
     "posts": [
-        { "id": 1 , "title":"Boarding Diary", "releaseYear":"2020", "coverpics":"https://manhwa18.com/app/manga/uploads/covers/3599b710c447d773e25b18ae3eeae395.jpg" },
+        { "id": 1 , "title":"Boarding Diary", "releaseYear":"2020", "coverpics":"https://manhwa18.com/app/manga/uploads/covers/3599b710c447d773e25b18ae3eeae395.jpg",
+         "chapter": [
+         {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        }
+         ] },
         { "id": 2 , "title":"Sister-In-Law", "releaseYear":"1985", "coverpics":"https://manhwa18.com/app/manga/uploads/covers/aa9b7a11f534f6f6af537a5c3fd3c687.jpg" },
         { "id": 3 , "title":"Peeking", "releaseYear":"1999", "coverpics":"https://manhwa18.com/app/manga/uploads/covers/aa9b7a11f534f6f6af537a5c3fd3c687.jpg" },
         { "id": 4 , "title":"Secret Class", "releaseYear":"2010", "coverpics":"https://manhwa18.com/app/manga/uploads/covers/aa9b7a11f534f6f6af537a5c3fd3c687.jpg" },
