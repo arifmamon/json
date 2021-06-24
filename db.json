@@ -3,24 +3,18 @@
         { "id": 1 , "title":"Boarding Diary", "releaseYear":"2020", "coverpics":"https://manhwa18.com/app/manga/uploads/covers/3599b710c447d773e25b18ae3eeae395.jpg",
          "chapter": [
          {
-            "id": 7,
-            "email": "michael.lawson@reqres.in",
-            "first_name": "Michael",
-            "last_name": "Lawson",
+            "id": 1,
+            "name": "chap 1",
             "avatar": "https://reqres.in/img/faces/7-image.jpg"
         },
         {
-            "id": 8,
-            "email": "lindsay.ferguson@reqres.in",
-            "first_name": "Lindsay",
-            "last_name": "Ferguson",
+            "id": 2,
+            "name": "chap 2",
             "avatar": "https://reqres.in/img/faces/8-image.jpg"
         },
         {
-            "id": 9,
-            "email": "tobias.funke@reqres.in",
-            "first_name": "Tobias",
-            "last_name": "Funke",
+            "id": 3,
+            "name": "chap 3",
             "avatar": "https://reqres.in/img/faces/9-image.jpg"
         }
          ] },
